@@ -31,7 +31,7 @@ If your Metamask wallet is already connected to Echelon dapp and you have enough
 
 ### Support
 
-If a bridge transaction fails for some reason, there's a separate [repair tool](https://app.ech.network/tools) in Echelon dapp . If there's any problems that you need support from the team or community, be sure to connect to Echelon Discord server and ask freely, please find the links to community channels [here](https://ech.world/community).
+If a bridge transaction fails for some reason, there's a separate [repair tool](https://app.ech.network/tools) in Echelon dapp . If there's any problems that you need support from the team or community, be sure to connect to Echelon Discord server and ask freely, please find the links to community channels [here](https://ech.world/links/#community).
 
 &nbsp;
 
