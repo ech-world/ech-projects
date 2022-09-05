@@ -2,9 +2,9 @@
 title: Dexchelon
 post_excerpt: DEX aggregator for trading USDC to wrapped Echelon
 taxonomy:
-    category: Aggregators
+    category: DEX Aggregator
 custom_fields:
-    logo: no-logo.png
+    logo: echguru.png
     website: https://ech.guru/dexch
 ---
 Dexchelon is a web app that finds the lowest price for trading USDC and wECH by using an aggregated route. Dexchelon is provided by [ECH.Guru](https://ech.guru/) that has other offerings as well, check out [their site](https://ech.guru/)!
