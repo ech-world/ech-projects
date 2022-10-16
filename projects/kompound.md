@@ -1,10 +1,10 @@
 ---
 title: Kompound
-post_excerpt: Compounding service for yield farms
+post_excerpt: Immutable Compounding Service for yield farms
 taxonomy:
-    category: Yield farming
+    category: Yield
 custom_fields:
-    logo: no-logo.png
+    logo: grain.svg
     website: https://ech.guru/GRAIN/
 ---
 Kompound makes it easy to earn and has extremely low fees to boot.
@@ -22,7 +22,7 @@ Earn your favorite tokens without any investments, just by being a good actor.
 All Most of the other, although famous, vaults can steal all users funds by switching to a fake strategy owned by their "admin/owner" whenever they want. All granaries use unchangeable strategies and have no admin privileges that can touch user funds, ever. All Kompound Protocol contracts, inlcuding the Granaries, have all their publicly callable functions guarded against re-entrant attacks.
 
 ### Lowest Fees.
-No deposit and withdrawal fees, only a performance cut (on profits, not principal).
+NO withdrawal fees, only a performance cut (on profits, not principal).
 
 ### And The Highest Rewards.
 Earn from each harvest ― paid directly to Workers, and this reward earns compound interest on top of it as well, with innovative TVL-preserving approach that cares about Workers' future gains as well.
