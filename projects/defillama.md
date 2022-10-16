@@ -12,4 +12,4 @@ DefiLlama provides live data for over 120 blockchains including Echelon. There a
 
 &nbsp;
 
-[![defillama](/_images/defillama.svg "DefiLlama")](https://defillama.com/chain/Echelon)
+[![defillama](/_images/defillama-logo.png "DefiLlama")](https://defillama.com/chain/Echelon)
