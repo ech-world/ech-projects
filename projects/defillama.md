@@ -4,7 +4,7 @@ post_excerpt: DeFi TVL aggregator committed to providing accurate data with tran
 taxonomy:
     category: Market data
 custom_fields:
-    logo: defillama.svg
+    logo: defillama-logo.png
     website: https://defillama.com/chain/Echelon
 ---
 We pride ourselves in producing inclusive, non-biased, and community driven statistics for the decentralised finance industry. We do our best to treat all projects equally with regards to what is and isn't included in TVL, how long it takes to list or update a project's TVL, and everything else.
@@ -12,4 +12,4 @@ DefiLlama provides live data for over 120 blockchains including Echelon. There a
 
 &nbsp;
 
-[![defillama](/_images/defillama.svg "DefiLlama")](https://defillama.com/chain/Echelon)
+[![defillama](/_images/defillama-logo.png "DefiLlama")](https://defillama.com/chain/Echelon)

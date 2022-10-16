@@ -4,7 +4,7 @@ post_excerpt: Immutable Compounding Service for yield farms
 taxonomy:
     category: Yield
 custom_fields:
-    logo: grain.svg
+    logo: kompound-logo.png
     website: https://ech.guru/GRAIN/
 ---
 Kompound makes it easy to earn and has extremely low fees to boot.
