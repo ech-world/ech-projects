@@ -1,6 +1,6 @@
 ---
 title: Beethoven-x
-post_excerpt:  Built on Balancer V2, Beethoven X is the first next-generation AMM protocol on Fantom Opera & Optimism. 
+post_excerpt:  Built on Balancer V2, Beethoven X is the first next-generation AMM protocol on Fantom Opera & Optimism
 taxonomy:
     category: DEX
 custom_fields:
