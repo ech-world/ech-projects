@@ -1,6 +1,6 @@
 ---
 title: DefiLlama
-post_excerpt: DefiLlama is a DeFi TVL aggregator. It is committed to providing accurate data without ads or sponsored content, as well as transparency.
+post_excerpt: DeFi TVL aggregator committed to providing accurate data with transparency and without ads
 taxonomy:
     category: Market data
 custom_fields:
