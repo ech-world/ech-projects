@@ -38,4 +38,4 @@ Beethoven X is an official friendly fork built on top of Balancer. Take a deep d
 
 ### Want to dive even deeper?
 
-[![Beets](/_images/cover_beethovenx.png "1ECH")](https://beets,fi)
+[![Beets](/_images/cover_beethovenx.png "BEETS")](https://beets.fi)
