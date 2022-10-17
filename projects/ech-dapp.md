@@ -2,7 +2,7 @@
 title: Echelon dapp
 post_excerpt: Official Echelon dapp provides assets management and a block explorer
 taxonomy:
-    category: Apps
+    category: Apps, Explorers
 custom_fields:
     logo: ech-logo.png
     website: https://app.ech.network/
