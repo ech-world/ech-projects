@@ -17,4 +17,4 @@ Nothing beats a Swiss Army knife! It would be fitting to describe the Echelon da
 
 &nbsp;
 
-[![Echelon dapp](/_images/ech-dapp-pic1.png "Echelon dapp")](https://app.ech.network/)
+[![Echelon dapp](/_images/ech-dapp-pic2.png "Echelon dapp")](https://app.ech.network/)
