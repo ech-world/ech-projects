@@ -17,4 +17,4 @@ Be sure to check other Echelon compatible bridges as well in the [project list](
 
 &nbsp;
 
-[![SWFT](/_images/swft-pic2.png "SWFT")](https://www.swftc.info/swft-v3/swft-v3-pc/trade/deal.html)
+[![SWFT](/_images/swft-pic3.png "SWFT")](https://www.swftc.info/swft-v3/swft-v3-pc/trade/deal.html)
