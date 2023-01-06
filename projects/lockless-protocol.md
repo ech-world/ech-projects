@@ -1,6 +1,6 @@
 ---
 title: Lockless Protocol
-post_excerpt: Lockless Protocol provides staking rewards with no locking or unbonding period
+post_excerpt: Lockless Protocol provides staking rewards with no locking period
 taxonomy:
     category: Staking
 custom_fields:
