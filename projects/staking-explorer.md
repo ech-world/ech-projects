@@ -7,7 +7,7 @@ custom_fields:
     logo: staking-explorer-logo.jpg
     website: https://staking-explorer.com/staking/echelon
 ---
-Staking Explorer has extensive statistics about validators and staked assets. If you're interested in the numbers from investor's point of view, be sure to check them out!
+Staking Explorer has extensive statistics about validators and staked assets. If you're interested in the numbers from an investor's point of view, be sure to check them out!
 
 &nbsp;
 
