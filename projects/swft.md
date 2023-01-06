@@ -5,9 +5,9 @@ taxonomy:
     category: Bridges
 custom_fields:
     logo: swft-logo.png
-    website: https://defi.swft.pro/
+    website: https://www.swftc.info/swft-v3/swft-v3-pc/trade/deal.html
 ---
-SWFT handles bridging across different blockchains and ecosystems with ease. Transactions are fast and the user interface is super easy to operate. Just connect the wallets and enjoy the beauty of cross-chain transactions in it's purest form!
+SWFT handles bridging across different blockchains and ecosystems with ease. Transactions are fast and the user interface is super easy to operate. Just connect the wallets and enjoy the beauty of cross-chain transactions in it's purest form! Echelon is listed on their Octopus Trade service.
 
 ### Road to Echelon
 
@@ -17,4 +17,4 @@ Be sure to check other Echelon compatible bridges as well in the [project list](
 
 &nbsp;
 
-[![SWFT](/_images/swft-pic1.png "SWFT")](https://defi.swft.pro/)
+[![SWFT](/_images/swft-pic2.png "SWFT")](https://www.swftc.info/swft-v3/swft-v3-pc/trade/deal.html)
